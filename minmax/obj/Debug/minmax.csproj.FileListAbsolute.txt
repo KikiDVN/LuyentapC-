@@ -6,3 +6,11 @@ C:\Users\cunla\source\repos\minmax\minmax\obj\Debug\minmax.csproj.SuggestedBindi
 C:\Users\cunla\source\repos\minmax\minmax\obj\Debug\minmax.csproj.CoreCompileInputs.cache
 C:\Users\cunla\source\repos\minmax\minmax\obj\Debug\minmax.exe
 C:\Users\cunla\source\repos\minmax\minmax\obj\Debug\minmax.pdb
+C:\Users\cunla\source\repos\minmax\LuyentapC-\minmax\bin\Debug\minmax.exe.config
+C:\Users\cunla\source\repos\minmax\LuyentapC-\minmax\bin\Debug\minmax.exe
+C:\Users\cunla\source\repos\minmax\LuyentapC-\minmax\bin\Debug\minmax.pdb
+C:\Users\cunla\source\repos\minmax\LuyentapC-\minmax\obj\Debug\minmax.csproj.AssemblyReference.cache
+C:\Users\cunla\source\repos\minmax\LuyentapC-\minmax\obj\Debug\minmax.csproj.SuggestedBindingRedirects.cache
+C:\Users\cunla\source\repos\minmax\LuyentapC-\minmax\obj\Debug\minmax.csproj.CoreCompileInputs.cache
+C:\Users\cunla\source\repos\minmax\LuyentapC-\minmax\obj\Debug\minmax.exe
+C:\Users\cunla\source\repos\minmax\LuyentapC-\minmax\obj\Debug\minmax.pdb

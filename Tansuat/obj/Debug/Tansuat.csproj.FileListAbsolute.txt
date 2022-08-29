@@ -1,8 +1,0 @@
-C:\Users\cunla\source\repos\Tansuat\Tansuat\obj\Debug\Tansuat.csproj.AssemblyReference.cache
-C:\Users\cunla\source\repos\Tansuat\Tansuat\obj\Debug\Tansuat.csproj.SuggestedBindingRedirects.cache
-C:\Users\cunla\source\repos\Tansuat\Tansuat\obj\Debug\Tansuat.csproj.CoreCompileInputs.cache
-C:\Users\cunla\source\repos\Tansuat\Tansuat\bin\Debug\Tansuat.exe.config
-C:\Users\cunla\source\repos\Tansuat\Tansuat\bin\Debug\Tansuat.exe
-C:\Users\cunla\source\repos\Tansuat\Tansuat\bin\Debug\Tansuat.pdb
-C:\Users\cunla\source\repos\Tansuat\Tansuat\obj\Debug\Tansuat.exe
-C:\Users\cunla\source\repos\Tansuat\Tansuat\obj\Debug\Tansuat.pdb
